@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @John Ronald 
+## 👋 Hi, I’m @A Bajwa
 
 🚀 DevOps Engineer | Automation Enthusiast | Cloud Solutions Advocate | DevOps Consultant
 
